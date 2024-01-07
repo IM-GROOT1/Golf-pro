@@ -60,8 +60,7 @@
         width: 90%;
         display: grid;
         grid-template-columns: auto;
-        /* gap: 125px; */
-        height: 155vhgi;
+        height: 155vh;
     }
     .service-box {
         width: 100%;
